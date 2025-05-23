@@ -1,6 +1,6 @@
 
 
-# <details><summary>A. Manual Approach: 🛠️ The Real Fix (Do This Once, Forever Works)</summary>
+<details><summary><h1>A. Manual Approach 🛠️</h1></summary>
 
 Let’s do what you should’ve been told from the beginning:
 
@@ -72,7 +72,7 @@ Want me to generate the key and push instructions as a printed card for your int
 
 ---
 
-# <details><summary>B. Work from Mac Terminal</summary>
+<details><summary><h1>B. Work from Mac Terminal</h1></summary>
 
 1. `cat creative.sh`
 
@@ -100,7 +100,7 @@ Want me to generate the key and push instructions as a printed card for your int
 
 ---
 
-# <details><summary>C. Work from VS Code</summary>
+<details><summary><h1>C. Work from VS Code</h1></summary>
 
 3. visual studio code installed
 
